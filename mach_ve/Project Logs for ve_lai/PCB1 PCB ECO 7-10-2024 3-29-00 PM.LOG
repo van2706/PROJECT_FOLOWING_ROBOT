@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=1 NewDesignator=12V 4 pin
+Change Component Designator: OldDesignator=2 NewDesignator=2pin
+Change Component Designator: OldDesignator=3 NewDesignator=4pin
+Change Component Designator: OldDesignator=4 NewDesignator=5V 4 pin
+Change Component Designator: OldDesignator=5 NewDesignator=5V 2pin
+Change Component Designator: OldDesignator=6 NewDesignator=3V3 2 pin
+Added Room: Name=schematic_total

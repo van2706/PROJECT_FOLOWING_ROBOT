@@ -1,0 +1,24 @@
+Change Component Designator: Old Designator=2pin New Designator=2
+Change Component Designator: Old Designator=3V3_2pin New Designator=6
+Change Component Designator: Old Designator=4 pin New Designator=3
+Change Component Designator: Old Designator=5V_2pin New Designator=5
+Change Component Designator: Old Designator=5V_4pin New Designator=4
+Change Component Designator: Old Designator=12V_4pin New Designator=1
+Change Component Designator: Old Designator=C? New Designator=C1
+Change Component Designator: Old Designator=C? New Designator=C2
+Change Component Designator: Old Designator=CL? New Designator=CL1
+Change Component Designator: Old Designator=CL? New Designator=CL2
+Change Component Designator: Old Designator=color_? New Designator=color_1
+Change Component Designator: Old Designator=color_? New Designator=color_2
+Change Component Designator: Old Designator=DC? New Designator=DC1
+Change Component Designator: Old Designator=DC? New Designator=DC2
+Change Component Designator: Old Designator=Driver? New Designator=Driver1
+Change Component Designator: Old Designator=F1_? New Designator=F1
+Change Component Designator: Old Designator=F1_? New Designator=F2
+Change Component Designator: Old Designator=I2C_LCD? New Designator=I1
+Change Component Designator: Old Designator=R? New Designator=R1
+Change Component Designator: Old Designator=R? New Designator=R2
+Change Component Designator: Old Designator=R? New Designator=R3
+Change Component Designator: Old Designator=R? New Designator=R4
+Change Component Designator: Old Designator=sensorLine? New Designator=sensorLine1
+Change Component Designator: Old Designator=Uart? New Designator=Uart1
